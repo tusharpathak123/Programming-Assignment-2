@@ -1,4 +1,5 @@
-cacheSolve <- function(x, ...) {
+cacheSolve <- function(x, ...) 
+{
   ## @x: output of makeCacheMatrix()
   ## return: inverse of the original matrix input to makeCacheMatrix()
   
