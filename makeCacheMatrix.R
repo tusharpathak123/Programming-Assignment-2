@@ -1,4 +1,5 @@
-makeCacheMatrix <- function(x = matrix()) {
+makeCacheMatrix <- function(x = matrix()) 
+{
   ## @x: a square invertible matrix
   ## return: a list containing functions to
   ##              1. set the matrix
